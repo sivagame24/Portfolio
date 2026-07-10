@@ -1,0 +1,5 @@
+package com.example.sivagame_portfolio
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
