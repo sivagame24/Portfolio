@@ -66891,7 +66891,7 @@ A.EA.prototype={
 J(a){var s,r,q,p,o=this,n=null,m=A.bA(a,n,t.w).w,l=o.e,k=l?A.Y(235,B.bd.n()>>>16&255,B.bd.n()>>>8&255,B.bd.n()&255):B.D,j=l?new A.cN(B.u,B.u,new A.bw(B.a6,1,B.L,-1),B.u):n
 l=l?A.c([new A.dU(0,B.by,A.Y(102,B.l.n()>>>16&255,B.l.n()>>>8&255,B.l.n()&255),B.i,20)],t.Y):n
 s=A.dF(B.j,2)
-s=A.c([A.m7(n,A.bS(n,A.ahi(A.aie("images/profile.jpg",B.jJ,n,n)),B.r,n,n,new A.bl(n,n,s,n,n,n,B.cf),n,50,n,n,n,n,50),B.ar,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.Ze(a),n,n,n),B.ja],t.p)
+s=A.c([A.m7(n,A.bS(n,A.ahi(A.aie("assets/images/profile.jpg",B.jJ,n,n)),B.r,n,n,new A.bl(n,n,s,n,n,n,B.cf),n,50,n,n,n,n,50),B.ar,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.Ze(a),n,n,n),B.ja],t.p)
 if(m.a.a>900){r=J.DT(8,t.l7)
 for(m=o.c,q=o.d,p=0;p<8;++p)r[p]=new A.z2(m[p],q===p,new A.Zf(o,p),n)
 B.b.K(s,r)}else s.push(new A.Kx(o.c,o.d,o.f,n))
@@ -66907,7 +66907,7 @@ $3(a,b,c){return B.cI},
 $S:446}
 A.acy.prototype={
 $4(a,b,c,d){var s=null,r=A.dK(B.zM,b,s),q=B.c.eW(b.gq(),0,1)
-return A.aj5(A.aeV(A.m7(s,A.ajF(B.D,A.QK(new A.md("profile-avatar",A.ahi(A.aie("images/profile.jpg",B.jJ,280,280)),s),s,s)),B.ar,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.acw(a),s,s,s),r),q)},
+return A.aj5(A.aeV(A.m7(s,A.ajF(B.D,A.QK(new A.md("profile-avatar",A.ahi(A.aie("assets/images/profile.jpg",B.jJ,280,280)),s),s,s)),B.ar,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.acw(a),s,s,s),r),q)},
 $S:447}
 A.acw.prototype={
 $0(){return A.mE(this.a,!1).eC()},
