@@ -58,7 +58,7 @@ class NavBar extends StatelessWidget {
                   ),
                   child: ClipOval(
                     child: Image.asset(
-                      'images/profile.jpg',
+                      'assets/images/profile.jpg',
                       fit: BoxFit.cover,
                     ),
                   ),
@@ -108,7 +108,7 @@ void _showZoomedProfile(BuildContext context) {
                   tag: 'profile-avatar',
                   child: ClipOval(
                     child: Image.asset(
-                      'images/profile.jpg',
+                      'assets/images/profile.jpg',
                       width: 280,
                       height: 280,
                       fit: BoxFit.cover,
